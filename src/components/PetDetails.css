@@ -1,0 +1,23 @@
+.pet-details {
+    text-align: left;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 300px;
+  }
+  
+  .pet-details h2 {
+    margin-top: 0;
+  }
+  
+  .pet-details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .pet-details li {
+    margin: 5px 0;
+  }
+  

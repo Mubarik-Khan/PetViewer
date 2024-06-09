@@ -1,0 +1,26 @@
+.footer {
+    background-color: #090909;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #ccc;
+    margin-left: -20px;
+  }
+  
+  .footer .contact-info p,
+  .footer .social-media p {
+    margin: 5px 0;
+  }
+  
+  .footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
